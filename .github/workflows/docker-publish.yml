@@ -6,6 +6,12 @@ on:
       - main
       - master
       - latest
+      - 9.1
+      - 9.2
+      - 9.3
+      - 9.4
+      - 9.5
+      - 9.6
     tags:
       - 'v*'
   pull_request:
